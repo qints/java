@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Oct 13 10:24:54 CST 2014
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=signer.jar
+manifest.mergeall=true
+manifest.mainclass=com.qints.sign.Signer
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
