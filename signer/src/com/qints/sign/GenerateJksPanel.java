@@ -6,11 +6,11 @@ import javax.swing.JPanel;
  * 生成jks文件的界面
  * @author qints
  * @data 2014年8月15日上午10:59:40
- * @version 1.0  
+ * @version 1.0.1
  */
 public class GenerateJksPanel extends JPanel{
 
-	public GenerateJksPanel() { 
+	public GenerateJksPanel() {  
 		initCompo();
 		initListener();
 	}
