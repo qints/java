@@ -10,7 +10,7 @@ import javax.swing.JPanel;
  */
 public class GenerateJksPanel extends JPanel{
 
-	public GenerateJksPanel() {
+	public GenerateJksPanel() { 
 		initCompo();
 		initListener();
 	}
